@@ -1,0 +1,8 @@
+allow_registration: true
+
+# Urban Crossfitters app -- talk to Jenner for info
+# App Namespace: herp_uc
+# App Domain: herp.edgetechsd.com
+facebook:
+    app_id:     '442579229105028'
+    app_secret: '076e70162f9b5d46ab1c510d7c1600cf'
